@@ -1,4 +1,4 @@
-package identacao;
+package sintaxe.identacao;
 
 public class Identacao {
     
